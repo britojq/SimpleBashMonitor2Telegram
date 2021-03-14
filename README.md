@@ -21,6 +21,6 @@ Si descubres alguna vulneravilidad o error, por favor enviame un correo a: brito
 The aplication is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 ## Autor
-Jose A. Brito H.
-@britojq @britojab
+Jose A. Brito H. 
+: @britojq : @britojab :
 www.britojab.com.ve
