@@ -2,6 +2,7 @@
 ###################################################################
 ######  #APLICATIVO PARA CHUEQUEO DE SERVICIOS CORPORATIVOS #######
 ###################################################################
+
 # INICIA REVISION Y CARGA DE PARAMETROS DESDE ARCHIVO DE CONFIGURACION
 
 file="monitor.conf"
