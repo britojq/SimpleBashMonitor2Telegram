@@ -6,6 +6,7 @@ Una aplicacion de monitoreo creada en Bash y unido a un Bot de Telegram
 Esta aplicacion fue diseñada para tener una herramienta de facil uso en la verificacion de los diferentes servicios y servidores de una red corporativa
 
 -  Verifica respuesta mediante PING a servidores y dispositivos de la red
+-  Verifica Servicio de sitio web (indica si pagina se carga correctamente para un proposito ej: login de acceso, mostrar formulario, mostrar datos)
 -  Verifica Servicio de Navegacion de Proxy SQUID + Dansguardian (verifica si el servidor responde al ping y aceptando query's)   
 -  Verifica Servicio de LDAP (verifica si el servidor responde al ping y aceptando query's)  
 -  Verifica Servicio DNS (verifica si el servidor responde al ping y aceptando query's)  
