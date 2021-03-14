@@ -1,2 +1,2 @@
 # SimpleBashMonitor2Telegram
-Un aplicativo de monitoreo en Bahs unido a un Bot de Telegram
+Una aplicacion de monitoreo creada en Bahs y unido a un Bot de Telegram
