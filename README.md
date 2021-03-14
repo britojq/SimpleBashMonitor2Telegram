@@ -12,6 +12,8 @@ Esta aplicacion fue diseñada para tener una herramienta de facil uso en la veri
 -  Verifica Servicio SMTP (verifica si el servidor responde al ping y puede enviar correos)  
 -  Envia resultado de la verificacion de servicios a un Bot de telegram previamente personalizado y a grupo seleccionado en telegram
 
+Se estaran agregando nuevas funciones
+
 ### Security Vulnerabilities
 
 Si descubres alguna vulneravilidad o error, por favor enviame un correo a: britojq@gmail.com
