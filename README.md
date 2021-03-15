@@ -13,7 +13,22 @@ Esta aplicacion fue diseñada para tener una herramienta de facil uso en la veri
 -  Verifica Servicio SMTP (verifica si el servidor responde al ping y puede enviar correos)  
 -  Envia resultado de la verificacion de servicios a un Bot de telegram previamente personalizado y a grupo seleccionado en telegram
 
-Se estaran agregando nuevas funciones
+Se estaran agregando nuevas funciones.
+
+### Nota del autor: 
+Para utilizar este aplicativo se requiere tener previamente instalado
+- curl
+- wget
+- bind9-utils
+- ldap-utils
+
+Queda pendiente la actualizacion que provee la verificacion de:
+- Servicios DNS
+- Servicios SMTP
+
+Se esta trabajando actualmente en la integracion al sistema operativo linux para que el chequeo sea mas comodo
+
+Este aplicativo no requiere permisos de ROOT para su ejecucion
 
 ### Security Vulnerabilities
 
