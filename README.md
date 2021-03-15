@@ -42,7 +42,7 @@ Este aplicativo no requiere permisos de ROOT para su ejecucion
 
 ### License
 
-The aplication is open-sourced software licensed under the [GNU Affero General Public License version 3 (AGPL-3.0) ](https://opensource.org/licenses/AGPL-3.0).
+The aplication is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 ## Consideraciones de Seguridad
 Ejecutar un Telegram Bot significa que está conectado al público y nunca se sabe qué se envía a su Bot.
