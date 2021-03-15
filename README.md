@@ -15,7 +15,7 @@ Esta aplicacion fue diseñada para tener una herramienta de facil uso en la veri
 
 Se estaran agregando nuevas funciones.
 
-### Nota del autor: 
+### Notas del autor: 
 Para utilizar este aplicativo se requiere tener previamente instalado
 - curl
 - wget
