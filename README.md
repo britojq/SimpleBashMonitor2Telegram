@@ -50,7 +50,7 @@ Los scripts de bash en general no están diseñados para ser a prueba de balas, 
 Consulte [Implicaciones de las citas incorrectas](https://unix.stackexchange.com/questions/171346/security-implications-of-forgetting-to-quote-a-variable-in-bash-posix-shells).
 
 ### Ejecuta tu bash como usuario restringido
-** Recomiendo ejecutar el bash2monitor como un usuario casi sin derechos de acceso. **
+** Recomiendo ejecutar el SimpleBashMonitor2Telegram como un usuario casi sin derechos de acceso. **
 Todos los archivos a los que tiene acceso de escritura están en peligro de ser sobrescritos / eliminados si es pirateado.
 Por la misma razón, todos los archivos que puede leer están en peligro de ser revelados. Restrinja los derechos de acceso al mínimo absoluto.
 ** ¡Nunca lo ejecute como root, esto es lo más peligroso que puede hacer! ** Por lo general, recomiendo usar el usuario 'nobody' que casi no tiene derechos en los sistemas Linux / Unix.
