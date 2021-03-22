@@ -1,4 +1,18 @@
 #/bin/bash
+
+####################################################################################################
+#
+#	                                BASHMONITOR2TELEGRAM
+#
+#     License: MIT License https://github.com/britojq/SimpleBashMonitor2Telegram/blob/main/LICENSE
+#      Author: Jose A. Brito H. (britojab:britojq), britojab.com.ve
+#		Copyright (c) 2021 Jose A. Brito H.
+#
+###############################################################################
+
+
+
+
 ###################################################################
 ######  #APLICATIVO PARA CHUEQUEO DE SERVICIOS CORPORATIVOS #######
 ###################################################################
